@@ -1386,7 +1386,7 @@ a {
     flex-direction: row;
   }
   .tr > td {
-    width: 170%;
+    width: 200%;
     vertical-align: middle;
   }
   .p-name {
