@@ -1380,13 +1380,13 @@ a {
   }
   .tbl {
     margin-left: -125px;
-    width: 310%;
+    width: 400%;
   }
   .tr {
     flex-direction: row;
   }
   .tr > td {
-    width: 200%;
+    width: 100%;
     vertical-align: middle;
   }
   .p-name {
