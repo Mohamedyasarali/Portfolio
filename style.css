@@ -608,7 +608,7 @@ dialog > p {
   width: 30%;
   padding: 10px 0px;
   /* height:100%; */
-  background-color: var(--hover-color);
+  background-color:var(--boxBack-color);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -620,7 +620,7 @@ dialog > p {
   filter: blur(0px);
   /* padding: 3px 0px; */
   /* height: 200px; */
-  background-color: var(--boxBack-color);
+  background-color: var(--hover-color);
   margin-top: 15px;
 }
 .work-image {
@@ -652,7 +652,7 @@ dialog > p {
   padding: 20px 20px;
   border: none;
   outline: none;
-  background-color: var(--boxBack-color);
+  background-color: var(--hover-color);
   /* background: rgba(0,0, 0,0.5); */
   margin-top: -200px;
   margin-left: 30px;
@@ -752,7 +752,7 @@ dialog > p {
 .skill-card {
   width: 90%;
   /* height: 70px; */
-  background-color: var(--hover-color);
+  background-color: var(--boxBack-color);
   display: flex;
   justify-content: space-evenly;
   padding: 10px;
