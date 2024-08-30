@@ -830,7 +830,7 @@ dialog > p {
 .skill-pro {
   width: 100%;
   padding: 12px 10px;
-  background-color: var(--hover-color);
+  background-color: var(--boxBack-color);
   margin: 8px 0px;
   display: flex;
   flex-direction: column;
@@ -1386,7 +1386,7 @@ a {
     flex-direction: row;
   }
   .tr > td {
-    width: 100%;
+    width: 120%;
     vertical-align: middle;
   }
   .p-name {
