@@ -858,7 +858,7 @@ progress {
   transition: width 1s ease-in-out;
 }
 progress::-webkit-progress-bar {
-  background-color: var(--boxBack-color);
+  background-color: var(--hover-color);
   color: var(--hue-color);
   /* margin-top: -5px; */
   border-radius: 25px;
@@ -1386,7 +1386,7 @@ a {
     flex-direction: row;
   }
   .tr > td {
-    width: 120%;
+    width: 170%;
     vertical-align: middle;
   }
   .p-name {
